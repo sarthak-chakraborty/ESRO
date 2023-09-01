@@ -11,11 +11,13 @@ Modern cloud services are prone to failures due to their complex architecture, m
 
 ## Data
 Data is propreitary and so it cannot be shared. The different types of data that is required in this work are:
-1. A json of outages which includes the start time, stop time, symptoms, root causes and remediations,etc. as keys.
-2. A list of alerts, created_at timestamp and the affected services in a csv format
+1. A json of outages which includes the start time, stop time, symptoms, root causes and remediations,etc. as keys. (cso_anonymised.json)
+2. A list of alerts, created_at timestamp and the affected services in a csv format. (alert_dummy_dataframe.csv)
 3. Distinct to Alert id mapping in csv format
 
-N.B.: Make appropriate changes to the dictionary key names in the code based on the data. 
+We have published a dummy data that show the list of outages, the list of alerts and a unique id mapping of alerts to a number in `Dummy_Data` folder.
+
+N.B.: Make appropriate changes to the dictionary key names in the code based on your data, if needed. 
 
 ## Folder Structure
 ```
