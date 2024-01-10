@@ -2,7 +2,17 @@
 
 This is the official repository corresponding to the paper titled **"ESRO: Experience Assisted Service Reliability against Outages"** accepted at the 2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023), Kirchberg, Luxembourg.
 
-***Please cite our paper in any published work that uses any of these resources.***
+```
+@INPROCEEDINGS{10298416,
+  author={Chakraborty, Sarthak and Agarwal, Shubham and Garg, Shaddy and Sethia, Abhimanyu and Pandey, Udit Narayan and Aggarwal, Videh and Saini, Shiv},
+  booktitle={2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE)}, 
+  title={ESRO: Experience Assisted Service Reliability against Outages}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={255-267},
+  doi={10.1109/ASE56229.2023.00131}}
+```
 
 
 ## Abstract
